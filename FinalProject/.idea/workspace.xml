@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3925faca-8b8f-4bc6-86a8-de339a0ceb04" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.dropbox" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.test.dSYM/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.test.dSYM/Contents/Resources/DWARF/.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../APIkey.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../C_swap_point.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/.dropbox" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-01-11 14.47.04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-01-11 14.47.07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-01-11 14.54.57.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-01-11 14.55.13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-01-11 14.55.20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-01-11 14.55.33.mov" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-01-11 15.12.17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-01-11 15.19.51.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-01-11 15.19.55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-01-11 15.34.38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-01-11 15.34.44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-01-21 15.48.59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-01-21 15.49.04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-01-21 16.30.45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-01-22 18.23.55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-01-22 18.24.00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-01-22 18.39.43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-01-26 16.12.12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-01-26 17.16.40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-01-26 17.16.41 HDR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-01-26 17.16.42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-01-26 17.16.43 HDR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-01-26 17.16.45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-01-26 17.16.46 HDR.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-01-26 17.16.59.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-01-29 18.12.25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-01-29 18.15.28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-01-29 18.15.31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-02-02 20.44.10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-02-07 09.18.23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-02-07 09.18.30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/2019-02-07 09.18.37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Camera Uploads/Icon&#10;" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Deploy-Node-To_Heroku" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_01/01_02/finished_files/syntax.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_01/01_02/syntax.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_02/02_01/structure.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_02/02_02/doctype.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_02/02_02/finished_files/doctype.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_02/02_03/finished_files/head.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_02/02_03/head.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_02/02_04/body.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_02/02_04/finished_files/body.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_02/02_05/models.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_01/finished_files/format.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_01/format.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_02/finished_files/headings.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_02/headings.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_03/finished_files/paragraphs.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_03/paragraphs.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_04/breaks.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_04/finished_files/breaks.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_05/emphasis.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_05/finished_files/emphasis.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_06/finished_files/special.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_06/special.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_07/finished_files/whitespace.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_07/whitespace.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_08/_images/lowcountry.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_08/_images/sc_flag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_08/finished_files/_images/lowcountry.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_08/finished_files/_images/sc_flag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_08/finished_files/images.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_08/images.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_09/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_09/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_09/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_09/finished_files/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_09/finished_files/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_09/finished_files/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_09/finished_files/intro.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_09/finished_files/lab_instructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_09/finished_files/links.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_09/finished_files/next.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_09/finished_files/reference.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_09/finished_files/structure.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_09/finished_files/syntax.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_09/intro.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_09/lab_instructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_09/links.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_09/next.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_09/reference.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_09/structure.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_03/03_09/syntax.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_02/Outline.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_02/finished_files/Outline.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_03/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_03/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_03/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_03/finished_files/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_03/finished_files/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_03/finished_files/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_03/finished_files/structure.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_03/structure.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_04/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_04/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_04/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_04/finished_files/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_04/finished_files/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_04/finished_files/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_04/finished_files/structure.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_04/structure.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_05/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_05/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_05/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_05/finished_files/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_05/finished_files/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_05/finished_files/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_05/finished_files/structure.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_05/structure.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_06/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_06/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_06/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_06/finished_files/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_06/finished_files/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_06/finished_files/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_06/finished_files/structure.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_06/structure.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_07/blog.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_07/finished_files/blog.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_08/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_08/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_08/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_08/finished_files/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_08/finished_files/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_08/finished_files/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_08/finished_files/structure.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_08/structure.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_09/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_09/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_09/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_09/finished_files/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_09/finished_files/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_09/finished_files/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_09/finished_files/structure.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_09/structure.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_10/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_10/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_10/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_10/finished_files/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_10/finished_files/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_10/finished_files/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_10/finished_files/intro.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_10/finished_files/lab_instructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_10/finished_files/links.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_10/finished_files/next.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_10/finished_files/reference.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_10/finished_files/structure.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_10/finished_files/syntax.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_10/intro.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_10/lab_instructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_10/links.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_10/next.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_10/reference.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_10/structure.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_04/04_10/syntax.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_01/finished_files/info/about.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_01/finished_files/info/extras/resources.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_01/finished_files/links.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_01/finished_files/same.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_01/info/about.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_01/info/extras/resources.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_01/links.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_01/same.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_02/absolute.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_02/finished_files/absolute.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_03/_assets/syntax.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_03/_assets/syntax.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_03/finished_files/_assets/syntax.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_03/finished_files/_assets/syntax.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_03/finished_files/resource.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_03/resource.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_04/destination.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_04/finished_files/destination.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_04/finished_files/fragments.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_04/fragments.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_05/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_05/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_05/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_05/finished_files/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_05/finished_files/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_05/finished_files/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_05/finished_files/intro.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_05/finished_files/links.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_05/finished_files/next.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_05/finished_files/reference.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_05/finished_files/structure.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_05/finished_files/syntax.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_05/intro.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_05/lab_instructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_05/links.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_05/next.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_05/reference.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_05/structure.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_05/05_05/syntax.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_06/06_01/finished_files/unordered.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_06/06_01/unordered.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_06/06_02/finished_files/ordered.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_06/06_02/ordered.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_06/06_03/description.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_06/06_03/finished_files/description.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_06/06_04/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_06/06_04/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_06/06_04/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_06/06_04/finished_files/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_06/06_04/finished_files/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_06/06_04/finished_files/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_06/06_04/finished_files/intro.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_06/06_04/finished_files/links.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_06/06_04/finished_files/next.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_06/06_04/finished_files/reference.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_06/06_04/finished_files/structure.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_06/06_04/finished_files/syntax.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_06/06_04/intro.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_06/06_04/lab_instructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_06/06_04/links.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_06/06_04/next.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_06/06_04/reference.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_06/06_04/structure.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_06/06_04/syntax.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_01/styles.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_02/finished_files/inline.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_02/inline.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_03/fnished_files/style.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_03/style.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_04/finished_files/type.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_04/type.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_05/color.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_05/finished_files/color.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_06/external.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_06/finished_files/external.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_06/finished_files/page2.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_06/finished_files/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_06/page2.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_07/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_07/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_07/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_07/finished_files/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_07/finished_files/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_07/finished_files/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_07/finished_files/intro.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_07/finished_files/links.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_07/finished_files/next.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_07/finished_files/reference.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_07/finished_files/structure.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_07/finished_files/syntax.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_07/intro.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_07/lab_instructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_07/links.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_07/next.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_07/reference.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_07/structure.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_07/07_07/syntax.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_01/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_01/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_01/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_01/_scripts/tabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_01/intro.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_01/links.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_01/next.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_01/reference.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_01/structure.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_01/syntax.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_02/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_02/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_02/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_02/finished_files/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_02/finished_files/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_02/finished_files/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_02/finished_files/next.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_02/next.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_03/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_03/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_03/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_03/finished_files/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_03/finished_files/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_03/finished_files/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_03/finished_files/next.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_03/next.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_04/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_04/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_04/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_04/finished_files/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_04/finished_files/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_04/finished_files/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_04/finished_files/next.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_04/next.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_05/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_05/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_05/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_05/finished_files/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_05/finished_files/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_05/finished_files/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_05/finished_files/next.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_05/next.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_06/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_06/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_06/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_06/finished_files/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_06/finished_files/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_06/finished_files/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_06/finished_files/next.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_06/next.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_07/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_07/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_07/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_07/finished_files/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_07/finished_files/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_07/finished_files/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_07/finished_files/_scripts/tabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_07/finished_files/next.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/Chapter_08/08_07/next.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/site/_css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/site/_images/200px-W3C_Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/site/_images/tags.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/site/_scripts/tabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/site/intro.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/site/links.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/site/next.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/site/reference.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/site/structure.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HTML_EssT/Exercise_files/site/syntax.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../HelloWorld/src/Hello.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework1_Ros.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework1_Ros.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Icon&#10;" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New scan/Blank Landscape.pages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New scan/Doc2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New scan/NoteSheet_Ros.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New scan/Scan0005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New scan/Scan0007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../New scan/doc2.pages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Node/SignUp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Node/demo_querystring.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Node/fileserver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Node/first.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Node/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Node/learn_node/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Node/learn_node/firstFile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Node/learn_node/global.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Node/learn_node/globalProcess.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Node/learn_node/questions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Node/learn_node/timers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Node/myfirst.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Node/myfirstmodule.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Node/readfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Node/weathertech-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Node/weathertech_logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Node/weathertechinterior.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Resume &amp; Cover/Chakrya Resume.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Resume &amp; Cover/Courses.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Resume &amp; Cover/Resume_Chakrya.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Resume &amp; Cover/Ros_Resume.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Resume &amp; Cover/Ros_Resume.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Resume &amp; Cover/cover letter.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Resume &amp; Cover/cover_letter.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Web services_SOAP_REST.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../bitwish_complement.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3022_DataSci/.ipynb_checkpoints/NumpyPandasTutorial-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3022_DataSci/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3022_DataSci/.ipynb_checkpoints/hmwk05-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3022_DataSci/.ipynb_checkpoints/nb00_python_question_mark-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3022_DataSci/.ipynb_checkpoints/nb01_pandas_titanic-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3022_DataSci/.ipynb_checkpoints/nb02_summarystats_weather-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3022_DataSci/.ipynb_checkpoints/nb03_graphical_summaries_wrangling-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3022_DataSci/.ipynb_checkpoints/nb04_stochastic_simulation-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3022_DataSci/.ipynb_checkpoints/nb05_condl_total_prob-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3022_DataSci/.ipynb_checkpoints/plot_normal_distribution-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3022_DataSci/.ipynb_checkpoints/prac-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3022_DataSci/CSCI-3022-Data-Science" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3104_Alg/.ipynb_checkpoints/mergeSort-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3104_Alg/CSCI3104-Algorithms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3104_Alg/grade.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/CyberSecurityFundamental/3403 Introduction_And_Motivation.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/CyberSecurityFundamental/3403 Key_Concepts.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/CyberSecurityFundamental/3403 Menlo_Report.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/CyberSecurityFundamental/3403 NIST_Framework.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/CyberSecurityFundamental/3403 SecurityPolicies.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/Data Security/3403 Access_Control.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/Data Security/3403 Entity_Authentication._3pdf.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/Data Security/3403 Identity.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/Data Security/3403 Key_Learning.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/Data Security/3403 Physical_Security.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/Data Security/3403 Public_Key_Cryptography.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/Data Security/3403 Replay_Attacks.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/Data Security/3403 Secure_Hashing.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/Data Security/3403 Symmetric_Crypto.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/Hw6/Project 3 Shadow Files.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/Hw6/project3_capture.pcapng" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/Recitation/PPT (4).pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/Recitation/PPT-1.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/Recitation/PPT-3.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/Recitation/PPT-4.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/Recitation/ppt (5).pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/Recitation/ppt copy.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/Recitation/ppt-2.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/Recitation/ppt.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/Software and Security/3403  Buffer_Overflow.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/Software and Security/3403  Malicious_Software.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/Software and Security/3403  OS_Security.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/Software and Security/3403  Software_Top_Ten_Flaws.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/project_cyber.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/system and Network Security/3403 Basic_Networking.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/system and Network Security/3403 DNS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/system and Network Security/3403 Denial_of_Service.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/system and Network Security/3403 Firewalls.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/system and Network Security/3403 Intrusion_Detection.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/system and Network Security/3403 Routing.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/system and Network Security/3403_Secure_Protocols.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../csci3404_Cyber/system and Network Security/3403_Societal_Security.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../js-weather" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myapp/chakrya_ros.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myapp/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myapp/myweb.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../myapp/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../shift_Operator.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../show_bytes.cpp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="87" selection-start-line="6" selection-start-column="87" selection-end-line="6" selection-end-column="87" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.sbt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/modules/ParsingLettuce-build.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/scala_compiler.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="570" />
+    <option name="y" value="38" />
+    <option name="width" value="706" />
+    <option name="height" value="669" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Problems'; set:Problems; class com.intellij.psi.search.scope.ProblemsScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ParsingLettuce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ParsingLettuce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ParsingLettuce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ParsingLettuce" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FinalProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="ParsingLettuce" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="finalproject [file:/Users/chakryaros/Dropbox/CSCI3155_PPL/FinalProject/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="ParsingLettuce-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3128913046000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="925756111" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3925faca-8b8f-4bc6-86a8-de339a0ceb04" name="Default Changelist" comment="" />
+      <created>1564456523836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564456523836</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="570" y="38" width="706" height="669" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.62349397" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Build" weight="0.32928944" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="sbt" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="87" selection-start-line="6" selection-start-column="87" selection-end-line="6" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
