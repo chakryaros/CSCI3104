@@ -1,2 +1,2 @@
-# CSCI3104
-CSCI 3104 Programming Principle Language
+# CSCI3155
+CSCI 3155 Programming Principle Language
